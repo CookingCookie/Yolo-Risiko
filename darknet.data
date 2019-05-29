@@ -2,5 +2,5 @@ classes = 3
 train  = /content/Yolo-Risiko/train.txt
 valid  = /content/Yolo-Risiko/test.txt
 names = /content/Yolo-Risiko/classes.names
-backup = /content/gdrive/My\ Drive/yolo-weights/Yolo-Risiko-Autosave
+backup = '/content/gdrive/My Drive/yolo-weights/Yolo-Risiko-Autosave'
 
