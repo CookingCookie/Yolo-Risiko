@@ -1,6 +1,6 @@
 classes = 3
-train  = /content/yolo-snowman/train.txt
-valid  = /content/yolo-snowman/test.txt
-names = /content/yolo-snowman/classes.names
-backup = /content/yolo-snowman/weights/
+train  = /content/Yolo-Risiko/train.txt
+valid  = /content/Yolo-Risiko/test.txt
+names = /content/Yolo-Risiko/classes.names
+backup = /content/Yolo-Risiko/weights/
 
