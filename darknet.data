@@ -1,0 +1,6 @@
+classes = 3
+train  = /content/yolo-snowman/train.txt
+valid  = /content/yolo-snowman/test.txt
+names = /content/yolo-snowman/classes.names
+backup = /content/yolo-snowman/weights/
+
