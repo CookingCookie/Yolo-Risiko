@@ -2,5 +2,5 @@ classes = 3
 train  = /content/Yolo-Risiko/train.txt
 valid  = /content/Yolo-Risiko/test.txt
 names = /content/Yolo-Risiko/classes.names
-backup = /content/auto-save
+backup = /content/drive-weights/Yolo-Risiko-Autosave
 
